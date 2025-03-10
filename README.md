@@ -350,13 +350,6 @@ Do you have any specific questions about this topic or would you like more infor
 
 Contributions are welcome! Whether you have ideas for additional prompt suggestions, improvements to the system prompt, or other enhancements, please feel free to fork this repository and submit a pull request. For significant changes or suggestions, please open an issue to discuss further.
 
----
-
-## License
-
-This project is licensed under the [BSD-3-Clause License](LICENSE).
-
----
 
 ## Acknowledgements
 
